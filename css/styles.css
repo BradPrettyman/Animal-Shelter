@@ -1,1 +1,20 @@
-h1 {text-align: center;}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: blue;
+}
+.column {
+  width: 300px;
+  float: left;
+}
+.column h2 {
+  text-align: center;
+  font-weight: bold;
+  color: red;
+}
+img {
+  width: 100px;
+  padding-left: 100px;
+}
